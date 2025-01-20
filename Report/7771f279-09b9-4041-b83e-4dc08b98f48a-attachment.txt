@@ -1,0 +1,5 @@
+Clicking the About on menu
+Sort the products
+Add item to cart to place order
+Entering the checkout details
+Status of the order :  THANK YOU FOR YOU ORDER

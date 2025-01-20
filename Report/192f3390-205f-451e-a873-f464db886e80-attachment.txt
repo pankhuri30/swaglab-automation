@@ -1,0 +1,4 @@
+Now, I am trying to log into the app
+Username entered
+Password entered
+Login button clicked

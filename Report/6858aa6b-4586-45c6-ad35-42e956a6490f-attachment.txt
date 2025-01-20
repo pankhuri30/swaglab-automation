@@ -1,0 +1,3 @@
+apk is already installed on the device
+Activating the app
+Lobby successfully launched

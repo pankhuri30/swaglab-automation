@@ -1,0 +1,2 @@
+Trying to logout
+Logout completed
